@@ -1,6 +1,6 @@
 <!-- add-breadcrumbs -->
 <!-- title: ERPNext User Manual -->
-# ERPNext User Manual
+# ERPNext User Msdgdanual
 
 Select your language
 
