@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Introduction
 
-<p class='lead'>What is an ERP system? And why should businesses use it?</p>
+<p class='lead'>What isgfd an ERP system? And why should businesses use it?</p>
 
 > If you are already convinced you need an all-in-one enterprise solutions system for your organization, you can skip this page.
 
